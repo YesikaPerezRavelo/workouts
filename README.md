@@ -2,10 +2,6 @@
 
 Simple sketch, responsive Front-end Interface built using basic HTML and CSS
 
-**### Website**
-
-[Website]([https://fitnessyes.onrender.com/](https://yesikaperezravelo.github.io/workouts/))
-
 ---
 
 **Intro**
